@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Android App Development Intern",
-    cardImage: "ssoi.jpg",
+    cardImage: "sssoi.jpg",
     place: "Society Of Artificial Intelligence (SOAI)",
     time: "(July, 2020 - Nov 2020)",
     desp: "<li>Developed the prototype of an app Finders, a social media‑like platform for entrepreneurs to connect with investors.</li> <li>Designed and Implemented the chat inbox UI, linked the server APIs with the app using Retrofit3 android library.</li> <li>Worked on establishing the connection of the app with the AWS S3 bucket to store short‑pitch videos.</li><li>Developed the navigation drawer and implemented registration/login functionalities for both founders and Investors.</li>",
