@@ -24,7 +24,7 @@ const exp = [
     place: "Indian Institute Of Technology Roorkee",
     time: "(Jan, 2022 - Mar, 2022)",
     desp: "<li>Worked under professor Alok Bhardwaj, IIT Roorkee, in extracting optical metadata and microwave metadata using web scraping.</li><li>Utilized the scraped data from planet and scihub website for the study of floods in India, Indonesia, Japan, Laos, and Thailand.</li>",
-  },
+  }
 ];
 
  
