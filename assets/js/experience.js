@@ -12,11 +12,11 @@ const exp = [
     desp: "<li>Developed the prototype of an app Finders, a social media‑like platform for entrepreneurs to connect with investors.</li> <li>Designed and Implemented the chat inbox UI, linked the server APIs with the app using Retrofit3 android library.</li> <li>Worked on establishing the connection of the app with the AWS S3 bucket to store short‑pitch videos.</li><li>Developed the navigation drawer and implemented registration/login functionalities for both founders and Investors.</li>",
   },
   {
-    title: "Student Developer",
+    title: "Web Devlopment Internship",
     cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    place: "Indian Institute Of Technology Roorkee",
+    time: "(May, 2022 - Jun, 2022)",
+    desp: "<li>Worked under professor Alok Bhardwaj, IIT Roorkee, on the development of a web‑based app for the retrieval and visualization of satellite data.</li><li>Utilized HTML, CSS, JavaScript, and Node.Js for the smooth retrieval of flood event data based on date ranges.</li>",
   },
   {
     title: "Research Intern",
