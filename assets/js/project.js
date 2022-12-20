@@ -6,7 +6,7 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
+    title: "Tel",
     cardImage: "assets/images/project-page/quiz.jpg",
     description: "A quiz app built using basic react.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
@@ -22,20 +22,10 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Flappy Bird",
-    cardImage: "assets/images/project-page/flappybird.png",
-    description: "Flappy bird game built using React.js",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    title: "Campus Compass Android Application",
+    description: "Built an android application for the IIT Roorkee Campus using Android Studio, Java and XML.The application allows students to create their profiles, chat among themselves, ask queries, share resources, getinstitute related information and career guidance",
     Previewlink: "",
-    Githublink: "",
-  },
-  {
-    title: "Exercise Tracker",
-    cardImage: "assets/images/project-page/exercise.jpg",
-    description: "Exercise tracker built using basic redux.",
-    tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
-    Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/AppDevProjectV1",
   },
   {
     title: "Recipe Ingredient Parser",
