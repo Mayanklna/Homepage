@@ -20,10 +20,10 @@ const exp = [
   },
   {
     title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    cardImage: "IITR.jpg",
+    place: "Indian Institute Of Technology Roorkee",
+    time: "(Jan, 2022 - Mar, 2022)",
+    desp: "<li>Worked under professor Alok Bhardwaj, IIT Roorkee, in extracting optical metadata and microwave metadata using web scraping.</li><li>Utilized the scraped data from planet and scihub website for the study of floods in India, Indonesia, Japan, Laos, and Thailand.</li>",
   },
 ];
 
