@@ -5,11 +5,11 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
+    title: "Android App Development Intern",
     cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    place: "Society Of Artificial Intelligence (SOAI)",
+    time: "(July, 2020 - Nov 2020)",
+    desp: "<li>Developed the prototype of an app Finders, a social media‑like platform for entrepreneurs to connect with investors.</li> <li>Designed and Implemented the chat inbox UI, linked the server APIs with the app using Retrofit3 android library.</li> <li>Worked on establishing the connection of the app with the AWS S3 bucket to store short‑pitch videos.</li><li>Developed the navigation drawer and implemented registration/login functionalities for both founders and Investors.</li>",
   },
   {
     title: "Student Developer",
